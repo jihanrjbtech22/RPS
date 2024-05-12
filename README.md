@@ -13,7 +13,7 @@ The Rock-Paper-Scissors (RPS) game in this project serves as a useful and exempl
 
 2. **CombineDatasets.py**
    - Run command: `python CombineDatasets.py <folder_path>`
-   - Combines multiple .pkl dataset files into one large `combine_dataset.pkl` file which the models train on.
+   - Combines multiple .pkl dataset files into one large `combined_dataset.pkl` file which the models train on.
 
 3. **gather_images.py**
    - Run command: `python gather_images.py class_name no_of_images`
